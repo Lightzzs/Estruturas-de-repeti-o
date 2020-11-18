@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.exe
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.deps.json
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.dll
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\bin\Debug\netcoreapp3.1\Estrutura de Repetição.pdb
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.dll
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.pdb
+C:\Users\VINICIUS\Desktop\SENAI\Estrutura de Repetição\obj\Debug\netcoreapp3.1\Estrutura de Repetição.genruntimeconfig.cache
